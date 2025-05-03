@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://me.n1ghtly.hu](https://me.n1ghtly.hu)
 
-- 📫 How to reach me **business@n1ghtly.hu**
+- 📫 How to reach me **szabcsi@n1ghtly.hu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
